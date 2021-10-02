@@ -17,6 +17,7 @@ public class Home {
     private int AmcDuration;
     private Date expiry;
     private String Id;
+    private boolean validId;
     private MultipartFile multipartFile;
 
     public String getApplianceName() {
